@@ -1,0 +1,134 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+.about img{
+	width: 100%;
+	margin-top: 20px;
+}
+.new_p{
+  margin-top: 15px;
+}
+.new_p img{
+	padding: 0;
+	margin-top: 2px;
+}
+.new_p{
+  height:500px;
+  width:900px;
+  margin:55px auto;
+  overflow: hidden;
+  position: relative;
+}
+.new_p ul{
+  position:absolute;
+} 
+.new_p ul li{
+  height:500px;
+}
+.new_p ol{
+  position:absolute;
+  right:5px;
+  bottom:10px;
+}
+.new_p ol li{
+  height:20px; width: 20px;
+  background:#ccc;
+  border:solid 1px #666;
+  margin-left:5px;
+  color:#000;
+  float:left;
+  line-height:center;
+  text-align:center;
+  cursor:pointer;
+}
+.new_p ol .on{
+  background:#E97305;
+  color:#fff;
+}
+hr{
+	border-top: 2px solid blue;
+}
+.notice{
+    width: 900px;
+    height: 500px;
+    margin: 0 20px 0 20px;
+    border: 1px solid #eee;
+    overflow: hidden;
+  }
+.notice_tit{
+    height: 50px;
+    position: relative;
+  }
+.notice_tit ul{
+    position: absolute;
+    width: 600px;
+    left: -1px;
+  }
+.notice_tit li{
+    float: left;
+    width: 110px;
+    height: 45px;
+    line-height: 26px;
+    text-align: center;
+    overflow: hidden;
+    padding: 0 1px;
+    border-bottom: 1px solid #eee;
+    background: #98ADEA;
+    padding-top: 15px;
+  }
+.notice_tit li.select{
+    background: #fff;
+    border: 1px solid #7E98E3;
+    padding: 0;
+    font-weight: bolder;
+    padding-top: 15px;
+  }
+.notice_tit li a:link,.notice_tit li a:visited{
+    text-decoration: none;
+    color: #000;
+  }
+.notice_tit li a:hover{
+    color: #f90;
+  }
+.notice_con{
+    margin-top: 25px;
+  }
+.notice_con p{
+  margin-left: 15px;
+  text-indent: 5px;
+  text-indent: 5px;
+  padding-top: 5px;
+}
+.notice_con p.special{
+  margin-left: 50px;
+}
+.notice_con h2{
+  margin: 15px 25px;
+}
+.notice_con span{
+  font-weight: normal;
+  font-size: 15px;
+  color: #B7AAAA;
+  margin-left: 8px;
+}
+.notice_con img{
+  float: right;
+  position: relative;
+  margin-top: -325px;
+  margin-right: 75px;
+}
+.notice_con img.img_s{
+  margin-top: -150px;
+}
+.notice_con button{
+  background-color: #AFBFEA;
+  margin: 40px;
+  height: 38px;
+  width: 30%;
+  border-radius: 5px;
+}
+.copy{
+   text-align: center;
+   margin-bottom: 25px;
+   margin-top: 15px;
+}

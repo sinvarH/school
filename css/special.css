@@ -1,0 +1,47 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+.about img{
+	width: 100%;
+	margin-top: 20px;
+}
+.content{
+	width: 900px;
+	border: 2px solid #CED3DB;
+	margin: 40px auto;
+}
+.text{
+	width: 650px;
+	margin: 40px auto;
+	border: 2px solid #D8DBE0;
+}
+.text p{
+	text-indent: 6px;
+	margin: 8px;
+}
+.form{
+	width: 650px;
+	margin: 40px auto;
+	border: 2px solid #E5E8EA;
+	text-align: center;
+	padding: 5px;
+}
+.form input{
+	width: 452px;
+	margin-top: 14px;
+}
+.form textarea{
+	margin-top: 14px;
+	width: 452px;
+}
+.form button{
+	width: 250px;
+	height: 35px;
+	border-radius: 6px;
+	background-color: #CED3DB;
+	margin: 14px;
+}
+.copy{
+   text-align: center;
+   margin-bottom: 25px;
+}

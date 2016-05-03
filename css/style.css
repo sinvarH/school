@@ -1,0 +1,71 @@
+li,ul{margin:0;padding:0;list-style-type:0}
+body{background:#eee; text-align:center;}
+li img{vertical-align:bottom;border:0px}
+.dhooo_tab{
+	width:945px;
+	margin:50px;
+	background:#fff url(../images/product display/main_bg.gif) repeat-x 0 100%;
+	border:1px solid #aaa;
+	position:relative;
+	float:left;
+}
+.tab_btn li{
+	float:left; 
+	width:250px
+}
+.tab_btn li {
+	display:block; 
+	padding:10px;
+	margin-right:25px; 
+	zoom:1;
+	text-decoration:none; 
+	color:#fff;
+	line-height:50%; 
+	cursor:pointer;
+}
+.tab_btn li.hot{
+	background:#fff;
+	cursor:default;
+}
+.tab_btn{
+	overflow:hidden;
+	height:200px; 
+	padding-left:50px; 
+	padding-top:10px; 
+	background:url(../images/product/display/tabbar.gif) repeat-x ; 
+}
+.tab_btn_num{
+	position:absolute; 
+	right:100px;
+	bottom:15px;
+}
+.tab_btn_num li{
+	width:200px;
+	height:200px;
+	background: #CC3300;
+	border:2px solid #993300; 
+	overflow:hidden; 
+	color:#fff;
+	opacity:0.8;
+	float:left;
+	cursor:default; 
+	margin:0px 5px; 
+}
+.tab_btn_num li.hot{
+	background:#FFCC00; 
+	color:#993300; 
+	border:2px solid #FF0000; 
+}
+.shell{
+ 
+}
+.shell li{
+	float:left; 
+	width:945px;
+    height:100%; 
+}
+.main{
+	width:945px;
+	height:190px;
+	overflow:hidden;
+}

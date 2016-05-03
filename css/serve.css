@@ -1,0 +1,46 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+.about img{
+	width: 100%;
+	margin-top: 20px;
+}
+.style1{
+    margin-top: 25px;
+    width: 85px;
+}
+.style2{
+    font-size: 14px;
+    margin-left: 250px;
+    margin-top: -70px;
+    color: #DB8B17;
+}
+.style3{
+    font-size: 14px;
+    width: 500px;
+    margin-top: 25px;
+    margin-left: 85px;
+    color: #C1B412;
+}
+.style4{
+    width: 200px;
+    margin-left: 580px;
+    margin-top: -275px;
+}
+.style5{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.style6{
+    width: 400px;
+    margin-left: 450px;
+    margin-top: -300px;
+    color: #E85A7C;
+}
+.copy{
+   text-align: center;
+   margin-bottom: 25px;
+   position: relative;
+   margin-top: 50px;
+}

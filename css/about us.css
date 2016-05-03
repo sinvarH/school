@@ -1,0 +1,105 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+.about img{
+	width: 100%;
+	margin-top: 20px;
+}
+.bg{
+	width: 100%;
+	position: absolute;
+	margin-top: 45px;
+	font-size: 14px;
+	text-align: left;
+}
+.style1{
+	display: block;
+	width: 315px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-top: 14px;
+	margin-left: 85px;
+}
+.style2{
+	display: inline-block;
+	width: 400px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-left: 510px;
+}
+.style3{
+	display: block;
+	width: 350px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-top: 365px;
+	margin-left: 65px;
+}
+.style4{
+	display: block;
+	width: 250px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-top: -365px;
+	margin-left: 650px;
+}
+.style5{
+	display: block;
+	width: 250px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-left: 650px;
+	margin-top: 50px;
+}
+.bg_ch{
+	width: 100%;
+	position: absolute;
+	margin-top: 45px;
+	font-size: 17px;
+	text-align: left;
+}
+.style1_ch{
+	display: block;
+	width: 315px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-top: 130px;
+	margin-left: 85px;
+}
+.style2_ch{
+	display: inline-block;
+	width: 400px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-left: 510px;
+}
+.style3_ch{
+	display: block;
+	width: 350px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-top: 400px;
+	margin-left: 65px;
+}
+.style4_ch{
+	display: block;
+	width: 250px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-top: -280px;
+	margin-left: 650px;
+}
+.style5_ch{
+	display: block;
+	width: 250px;
+	text-indent: 15px;
+	letter-spacing: 1px;
+	margin-left: 650px;
+	margin-top: 50px;
+}
+.copy{
+   text-align: center;
+   margin-bottom: 25px;
+   margin-top: 1300px;
+   position: relative;
+}
